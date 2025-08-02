@@ -1,7 +1,7 @@
 <h1 align="center">🐾 ¡Hola, soy Trik-Cia! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJhd2puMWhjYXU3c2l2dGtxYW50Y2dkdjA4d3A4aXRzNTJ0eWlyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fz5sRNAXwj1PO/giphy.gif" width="200px"><br><br>
+  <img src="https://pin.it/2SbMNoyFc" width="200px"><br><br>
   🧠 Estudiante de Desarrollo de Software <br>
   🌌 Amante de la tecnología futurista, musica y el aprendizaje constante <br>
 </p>
